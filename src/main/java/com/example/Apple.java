@@ -5,4 +5,5 @@ package com.example;
  * @create: 2021/4/28 00:13
  */
 public class Apple {
+    private int price;
 }
